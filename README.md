@@ -1,4 +1,4 @@
-# HTML Iframe Lab
+# HTML Iframes Lab
 
 
 ## Problem Statement
